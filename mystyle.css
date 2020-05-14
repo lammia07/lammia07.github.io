@@ -100,4 +100,5 @@ table {
   iframe {
       display: block;
       margin: auto;
+      border: none;
   }
