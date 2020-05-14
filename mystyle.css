@@ -96,3 +96,8 @@ table {
   tr:nth-child(even) {
     background-color: #ffffff;
   }
+
+  iframe {
+      display: block;
+      margin: auto;
+  }
